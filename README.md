@@ -1,4 +1,8 @@
+STILL A WORK IN PROGRESS
+
+
 To install, place the GexBot_QT.dll file (JUST BY ITSELF) into
+
 
 YourQuantowerInstallationPath\Settings\Scripts\Indicators\FolderNameOfYourChoice 
 
